@@ -62,7 +62,7 @@ srun --pty /bin/bash                 # run shell on allocated node
 
 ---
 
-## 📜 Batch Jobs
+## 📜 6. Batch Jobs
 ```bash
 sbatch job.slurm     # submit job
 squeue -u username   # check job status
