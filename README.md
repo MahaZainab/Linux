@@ -66,11 +66,4 @@ Prompt/PowerShell with slight differences):
 
 ------------------------------------------------------------------------
 
-## 5. Next Steps
 
--   Practice commands daily.\
--   Explore how Linux file paths are structured (everything starts from
-    `/`).\
--   Learn about user permissions and file ownership.\
--   Try installing WSL or a Linux distribution to get hands-on
-    experience.
