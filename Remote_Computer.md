@@ -87,15 +87,9 @@ nvidia-smi
 
 ---
 
-## ⚡ Python Test (CUDA)
-```python
-import torch
-print(torch.tensor([1,2]).cuda())
-```
 
----
 
-## ✅ Quick Summary
+## ✅ Quick Summary of commands
 - **Login:** `ssh user@aiau.eng.auburn.edu`
 - **Modules:** `module avail`, `module load <pkg>`
 - **Jobs:** `salloc`, `sbatch`, `squeue`
