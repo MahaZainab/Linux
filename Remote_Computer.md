@@ -7,3 +7,5 @@ Your first job will be to  email the admin or system engineer of the organizatio
 
 ### 2. Accessing the system
 Now, as you have your credentials with you, open the command prompt using windows key+ R and then typing cmd into text box.
+It will look something like this
+![alt text](image.png)
