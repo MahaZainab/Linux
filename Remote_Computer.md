@@ -9,3 +9,8 @@ Your first job will be to  email the admin or system engineer of the organizatio
 Now, as you have your credentials with you, open the command prompt using windows key+ R and then typing cmd into text box.
 It will look something like this
 ![alt text](image.png)
+
+Now type the following command:
+1. ssh username/email(anything you have with you)
+2. After that type password.
+Hurah, Now you are on someone elses computer
