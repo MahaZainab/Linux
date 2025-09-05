@@ -30,25 +30,10 @@ Run the following command (replace with your actual username):
 ssh your_username@easley.hpc.auburn.edu
 
 ```
-## 📂 3. Transferring Files
-
-To run scripts or access results, transfer files using scp:
-
-### Upload a file to the cluster:
-```bash
-scp myscript.py your_username@easley.hpc.auburn.edu:/home/your_username/
-```
-
-### Download a file from the cluster:
-```bash
-scp your_username@easley.hpc.auburn.edu:/home/your_username/results.txt .
-```
-
-For larger datasets, use **rsync** for faster transfers.
 
 ---
 
-## 🖥️ 4. Working on the Cluster
+## 🖥️ 3. Working on the Cluster
 
 The HPC system runs on Linux. Some useful commands:
 
