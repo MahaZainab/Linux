@@ -80,7 +80,7 @@ rsync -avP data/ user@aiau.eng.auburn.edu:/home/user/data/   # sync large datase
 
 ---
 
-## 📊 GPU Monitoring
+## 📊 8. GPU Monitoring
 ```bash
 nvidia-smi
 ```
