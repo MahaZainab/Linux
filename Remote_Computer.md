@@ -29,6 +29,7 @@ Run the following command (replace with your actual username):
 ```bash
 ssh your_username@easley.hpc.auburn.edu
 
+```
 ## 📂 3. Transferring Files
 
 To run scripts or access results, transfer files using scp:
