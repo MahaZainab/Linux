@@ -39,9 +39,9 @@ This will open the Command Prompt window. You can also search for
 
 For deeper practice, you can install and run Linux alongside Windows in
 different ways: - **WSL (Windows Subsystem for Linux)** -- Allows you to
-run Linux directly inside Windows.\
+run Linux directly inside Windows.
 - **Virtual Machine** -- Install software like VirtualBox or VMware and
-run Linux as a virtual system.\
+run Linux as a virtual system.
 - **Dual Boot** -- Install both Windows and Linux on your computer (more
 advanced).
 
@@ -54,7 +54,7 @@ If you're just starting, **WSL** is the easiest way.
 Here are some simple commands (they also work in Command
 Prompt/PowerShell with slight differences):
 
--   `pwd` → Print the current directory (folder).\
+-   `pwd` → Print the current directory (folder).
 -   `ls` → List files in the directory.\
 -   `cd foldername` → Change directory.\
 -   `mkdir newfolder` → Create a new folder.\
