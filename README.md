@@ -4,3 +4,4 @@ The purpose of this repository is that who are new to computer science field can
 Also remember that we can also use these commands just opening command prompt.
 you can open command prompt just pressing windows+R and then type cmd in the text box.
 
+open your 
