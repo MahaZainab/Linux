@@ -43,7 +43,7 @@ cd dir    # change directory
 pwd       # print working directory
 ```
 
-## 📦 Modules
+## 📦 4. Modules
 ```bash
 module avail          # list available modules
 module load <module>  # load a module
