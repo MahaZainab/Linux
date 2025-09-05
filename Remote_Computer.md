@@ -2,4 +2,5 @@ In this tutorial, we will take Auburn university remote computers as an example.
 
 I am going to  guide you step-by-step.
 
-### 1. Get credentials 
+### 1. Get credentials
+Your first job will be to  email the admin or 
