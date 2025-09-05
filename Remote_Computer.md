@@ -58,6 +58,67 @@ cd dir    # change directory
 pwd       # print working directory
 ```
 
+## 📦 Modules
+```bash
+module avail          # list available modules
+module load <module>  # load a module
+module list           # show loaded modules
+module purge          # unload all modules
+```
+
+---
+
+## 🖥️ Job Allocation (Slurm)
+```bash
+salloc -N1                          # request 1 node
+salloc -N1 --nodelist=aiau010        # request a specific node
+srun --pty /bin/bash                 # run shell on allocated node
+```
+
+---
+
+## 📜 Batch Jobs
+```bash
+sbatch job.slurm     # submit job
+squeue -u username   # check job status
+scancel job_id       # cancel a job
+```
+
+---
+
+## 📂 File Transfer
+```bash
+scp file.py user@aiau.eng.auburn.edu:/home/user/   # upload
+scp user@aiau.eng.auburn.edu:/home/user/out.txt .  # download
+rsync -avP data/ user@aiau.eng.auburn.edu:/home/user/data/   # sync large datasets
+```
+
+---
+
+## 📊 GPU Monitoring
+```bash
+nvidia-smi
+```
+
+---
+
+## ⚡ Python Test (CUDA)
+```python
+import torch
+print(torch.tensor([1,2]).cuda())
+```
+
+---
+
+## ✅ Quick Summary
+- **Login:** `ssh user@aiau.eng.auburn.edu`
+- **Modules:** `module avail`, `module load <pkg>`
+- **Jobs:** `salloc`, `sbatch`, `squeue`
+- **Cancel:** `scancel job_id`
+- **Files:** `scp`, `rsync`
+- **GPU:** `nvidia-smi`
+
+
 ### Requesting Interactive Resources
 
 You must request resources through the job scheduler:
