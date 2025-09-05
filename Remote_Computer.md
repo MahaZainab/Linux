@@ -71,7 +71,7 @@ scancel job_id       # cancel a job
 
 ---
 
-## 📂 File Transfer
+## 📂 7. File Transfer
 ```bash
 scp file.py user@aiau.eng.auburn.edu:/home/user/   # upload
 scp user@aiau.eng.auburn.edu:/home/user/out.txt .  # download
