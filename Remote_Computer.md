@@ -1,1 +1,1 @@
-In this tutorial, we will t
+In this tutorial, we will take 
