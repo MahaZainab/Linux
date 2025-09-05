@@ -1,1 +1,1 @@
-In this tutorial, we will take Auburn university remote
+In this tutorial, we will take Auburn university remote computers 
