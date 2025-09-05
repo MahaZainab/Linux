@@ -26,8 +26,8 @@ commands on **Windows Command Prompt** or **PowerShell**.
 
 ### How to open Command Prompt:
 
-1.  Press **Windows + R**.\
-2.  Type `cmd` in the text box.\
+1.  Press **Windows + R**.
+2.  Type `cmd` in the text box.
 3.  Press **Enter**.
 
 This will open the Command Prompt window. You can also search for
