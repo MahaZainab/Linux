@@ -1,2 +1,2 @@
 # Linux
-This is a beganner guide for 
+This is a beganner guide for those who use
