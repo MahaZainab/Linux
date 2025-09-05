@@ -1,2 +1,2 @@
 # Linux
-This is a 
+This is a beganner 
