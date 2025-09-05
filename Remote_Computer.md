@@ -98,6 +98,7 @@ nvidia-smi
 - **GPU:** `nvidia-smi`
 
 ---
+
 ## ⚡ 6. Best Practices
 
 - Do not run heavy computations on the login node — always use `srun` or `sbatch`.
