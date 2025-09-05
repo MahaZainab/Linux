@@ -1,7 +1,7 @@
 # Linux Beginner Guide (For Windows Users)
 
 This guide is for beginners who are familiar with **Windows** but new to
-the **Linux operating system**.\
+the **Linux operating system**.
 Its purpose is to introduce some basic Linux commands that are very
 useful in computer science and software development.
 
@@ -9,8 +9,8 @@ useful in computer science and software development.
 
 ## 1. Why Learn Linux?
 
-Linux is widely used in: - Servers and cloud computing\
-- Software development\
+Linux is widely used in: - Servers and cloud computing
+- Software development
 - Artificial intelligence and data science\
 - Cybersecurity
 
