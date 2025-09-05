@@ -89,7 +89,7 @@ nvidia-smi
 
 
 
-## ✅ Quick Summary of commands
+## ✅ 9. Quick Summary of commands
 - **Login:** `ssh user@aiau.eng.auburn.edu`
 - **Modules:** `module avail`, `module load <pkg>`
 - **Jobs:** `salloc`, `sbatch`, `squeue`
@@ -97,53 +97,7 @@ nvidia-smi
 - **Files:** `scp`, `rsync`
 - **GPU:** `nvidia-smi`
 
-
-### Requesting Interactive Resources
-
-You must request resources through the job scheduler:
-
-```bash
-srun --partition=gpu --gres=gpu:1 --mem=16G --time=02:00:00 --pty bash
-```
-
-This gives you **1 GPU, 16 GB RAM, for 2 hours.**
-
 ---
-
-## 📜 5. Submitting Batch Jobs
-
-Most jobs are submitted with a batch script (`job.slurm`):
-
-```bash
-#!/bin/bash
-#SBATCH --job-name=test_job
-#SBATCH --output=output.txt
-#SBATCH --partition=gpu
-#SBATCH --gres=gpu:1
-#SBATCH --mem=16G
-#SBATCH --time=04:00:00
-
-module load python/3.9
-python myscript.py
-```
-
-### Submit the job:
-```bash
-sbatch job.slurm
-```
-
-### Check its status:
-```bash
-squeue -u your_username
-```
-
-### Cancel a job:
-```bash
-scancel job_id
-```
-
----
-
 ## ⚡ 6. Best Practices
 
 - Do not run heavy computations on the login node — always use `srun` or `sbatch`.
