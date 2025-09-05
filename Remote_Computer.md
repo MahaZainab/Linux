@@ -53,7 +53,7 @@ module purge          # unload all modules
 
 ---
 
-## 🖥️ Job Allocation (Slurm)
+## 🖥️ 5. Job Allocation (Slurm)
 ```bash
 salloc -N1                          # request 1 node
 salloc -N1 --nodelist=aiau010        # request a specific node
