@@ -1,1 +1,1 @@
-In this tutorial, we will take Auburn university 
+In this tutorial, we will take Auburn university remote
