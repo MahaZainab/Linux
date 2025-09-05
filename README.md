@@ -55,13 +55,13 @@ Here are some simple commands (they also work in Command
 Prompt/PowerShell with slight differences):
 
 -   `pwd` → Print the current directory (folder).
--   `ls` → List files in the directory.\
--   `cd foldername` → Change directory.\
--   `mkdir newfolder` → Create a new folder.\
--   `rm filename` → Delete a file.\
--   `cp file1 file2` → Copy a file.\
--   `mv oldname newname` → Move or rename a file.\
--   `clear` → Clear the screen.\
+-   `ls` → List files in the directory.
+-   `cd foldername` → Change directory.
+-   `mkdir newfolder` → Create a new folder.
+-   `rm filename` → Delete a file.
+-   `cp file1 file2` → Copy a file.
+-   `mv oldname newname` → Move or rename a file.
+-   `clear` → Clear the screen.
 -   `exit` → Close the terminal session.
 
 ------------------------------------------------------------------------
