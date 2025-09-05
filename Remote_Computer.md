@@ -5,7 +5,7 @@ The cluster provides **powerful GPUs, CPUs, and large memory** resources to run 
 
 ---
 
-## 🚀 1. Request Access
+## 1. Request Access
 Before you begin, you must have an **Auburn AIAU account**.
 
 - Contact your **system administrator** or **HPC support team**.  
