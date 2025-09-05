@@ -1,6 +1,6 @@
 # Auburn University Remote Cluster Tutorial
 
-This guide walks you through the process of connecting to Auburn University’s High-Performance Computing (HPC) cluster.  
+This guide walks you through the process of connecting to Auburn University’s AIAU cluster.  
 The cluster provides **powerful GPUs, CPUs, and large memory** resources to run heavy computations, simulations, and deep learning tasks.
 
 ---
