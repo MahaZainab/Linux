@@ -11,7 +11,7 @@ useful in computer science and software development.
 
 Linux is widely used in: - Servers and cloud computing
 - Software development
-- Artificial intelligence and data science\
+- Artificial intelligence and data science
 - Cybersecurity
 
 Learning Linux commands will give you more control over your computer
