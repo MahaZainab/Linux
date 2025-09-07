@@ -1,5 +1,5 @@
 **In this tutorial, we will take Auburn university remote computers as an example. The aim of accessing that computer is to get more resources such as GPU and more RAM. I am going to guide you step-by-step.** 
-This is specifically designed to assist the incoming students of Auburn Uni
+This is specifically designed to assist the incoming students of Auburn Universi
 # Auburn University Remote Cluster Tutorial
 
 This guide walks you through the process of connecting to Auburn University’s(AIAU) cluster.  
